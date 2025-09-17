@@ -1,0 +1,10 @@
+[package]
+name = "gamedirs"
+version = "0.0.1"
+edition = "2024"
+description = "Opinionated base directory helpers for Windows, Linux, and macOS (settings, saves, logs, temp). Mainly for games."
+license = "MIT"
+keywords = ["directories", "paths"]
+categories = ["config", "filesystem", "game-development"]
+
+[dependencies]
